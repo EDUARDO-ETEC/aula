@@ -1,0 +1,53 @@
+
+
+
+
+body {
+margin: 0;
+
+}
+
+
+
+header{
+	text-align: center;
+}
+
+header .top-title {
+background-color: rgba(50,205,50);
+color: black;
+padding: 20px 0;
+font-size: 37px;	
+}
+
+header .bottom-title {
+background-color: #00FF00;
+color: black;
+padding: 10px 0;
+font-size: 24px;
+
+}
+
+main {
+width: 850px;
+    margin: auto;
+
+}
+	
+
+h1{
+font-size: 50px; 
+color: green;
+}
+
+h2{
+font-size: 29px;
+color: green
+
+}
+
+
+p{
+font-size: 20px;
+
+}
